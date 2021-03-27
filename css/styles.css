@@ -67,3 +67,7 @@ body {
 .carousel-indicators {
     cursor: pointer;
 }
+
+.btn-group {
+    padding-left: 12px;
+}
