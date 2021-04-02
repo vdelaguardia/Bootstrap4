@@ -52,3 +52,19 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.section-btns {
+  padding-left: 15px; }
+
+#login {
+  cursor: pointer; }
+
+.modal-header {
+  background-color: #512DA8;
+  color: #ddd;
+  border-bottom: none; }
+  .modal-header .close {
+    color: #ddd; }
+
+.modal-body {
+  background-color: #D1C4E9; }
